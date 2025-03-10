@@ -1,0 +1,1 @@
+# in this repo I am going to create a simple calculator using python language and perform simple arithmetics
